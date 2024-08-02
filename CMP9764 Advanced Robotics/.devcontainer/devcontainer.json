@@ -1,7 +1,7 @@
 {
-    "name": "MODULE",
+    "name": "Advanced Robotics",
     
-    "image": "ghcr.io/socstech/MODULE:latest",
+    "image": "ghcr.io/socstech/cmp9764:latest",
 
     //"build": { "dockerfile": "Dockerfile" },
 
